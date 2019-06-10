@@ -1,0 +1,3 @@
+rootProject.name = 'siros_4482'
+
+include ':app'

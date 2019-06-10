@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT siros_4482.wsgi:application
